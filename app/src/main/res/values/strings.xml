@@ -29,11 +29,11 @@
     <string name="submit">Submit</string>
     <string name="restart">Restart</string>
     <string name="quiz_details">Buffy the Vampire Slayer Quiz</string>
-    <string name="best_friend_question">Who was/were Buffy&quot;s best friend(s)? (check all that apply)</string>
-    <string name="sister_question">Who was Buffy&quot;s sister</string>
+    <string name="best_friend_question">Who was/were Buffy\'s best friend(s)? (check all that apply)</string>
+    <string name="sister_question">Who was Buffy\'s sister</string>
     <string name="death_question">How many times did Buffy die?</string>
-    <string name="next_slayer_question">What slayer was called after Buffy&quot;s first death?</string>
+    <string name="next_slayer_question">What slayer was called after Buffy\'s first death?</string>
     <string name="trio_question">What were the names of the trio that tried to take over Sunnydale</string>
-    <string name="watcher_question">What was the name of Buffy&quot;s first watcher</string>
+    <string name="watcher_question">What was the name of Buffy\'s first watcher</string>
     <string name="soul_question">What vampire(s) had/got a soul? (check all that apply)</string>
 </resources>
